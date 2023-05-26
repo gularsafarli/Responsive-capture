@@ -1,0 +1,31 @@
+@media only screen and (min-width:992px){
+   .container{
+    max-width: 1000px;
+   }
+   .all-section{
+    display: flex;
+  }
+   .section-left .img-left{
+    width: 80%;
+   }
+   .section-right .p-first{
+font-size: 42px;
+font-weight: 900;
+margin-top:50px;
+   }
+   .section-right .p-second{
+    font-size: 23px;
+   }
+.left-bottom {
+ padding-bottom: 90px;
+}
+.photo-right{
+    position: relative;
+    width: 140px;
+    height: 100px;
+}
+.photo-right img{
+    position: absolute;  
+}
+
+}
