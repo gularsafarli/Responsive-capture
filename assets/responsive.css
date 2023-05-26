@@ -9,23 +9,20 @@
    .section-left .img-left{
     width: 100%;
    }
+   .section-right{
+   width: 600px;
+   }
    .section-right .p-first{
-font-size: 40px;
+font-size: 46px;
 font-weight: 900;
-margin-top:30px;
+margin-top:20px;
    }
    .section-right .p-second{
-    font-size: 22px;
+    font-size: 20px;
    }
 .left-bottom {
  padding-bottom: 90px;
 }
-/* .photo-left img{
-    position: absolute;
-   width: 80px;
-   bottom:31px;
-   left:20px;
-} */
 .photo-left{
     position: relative;
     width: 120px;
